@@ -1,21 +1,24 @@
-<!-- logo or cover image here -->
-<!-- ![Project Logo](https://link-to-project-logo.png) -->
+# GPCS Client
 
-# OpenAI Client
-
-![GitHub last commit](https://img.shields.io/github/last-commit/vinitparekh17/openai-client)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/vinitparekh17/openai-client)
-![GitHub](https://img.shields.io/github/license/vinitparekh17/openai-client)
+![GitHub last commit](https://img.shields.io/github/last-commit/vinitparekh17/gpcs-client)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/vinitparekh17/gpcs-client)
+![GitHub](https://img.shields.io/github/license/vinitparekh17/gpcs-client)
 
 [About](#about) | [Features](#features) | [Getting Started](#getting-started) | [Usage](#usage) | [License](#license) | [Contact](#contact)
 
 # About
 
-This is the client-side of openai project which is build using NextJS, Typescript and TailwindCSS.
+This is the frontend of [General Purpose Chat System](https://github.com/vinitparekh17/gpcs/) which is build using NextJS, Typescript and TailwindCSS.
 
 ## Features
 
-- [x] Comming Soon
+- [x] Login / SignUP
+- [x] Custom Hooks 
+- [x] Text based conversion
+- [x] Voice based conversion
+- [x] React Redux for state management
+- [x] client side stripe integration
+- [x] client side razorpay integration
 
 ## Getting Started
 
