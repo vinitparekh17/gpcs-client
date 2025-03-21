@@ -57,10 +57,6 @@ This is the frontend of [General Purpose Chat System](https://github.com/vinitpa
    http://localhost:3000
    ```
 
-## Usage
-
-<!--  -->
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
